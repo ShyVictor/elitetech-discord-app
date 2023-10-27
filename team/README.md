@@ -1,22 +1,21 @@
-Para ingressar ao time de desenvolvimento deste projeto, siga estas etapas:
+# Time de Desenvolvimento
+
+Se você está interessado em se juntar ao nosso time de desenvolvimento, siga estas etapas simples:
 
 1. **Submissão de Informações:**
-   Envie um arquivo de texto (`.txt`) contendo as seguintes informações para se candidatar num PULL REQUEST do repositório com a label "join the team":
-   Observação: o nome do arquivo deve ser seu usuário do Github identicamente.
+   Envie um arquivo de texto (formato .md ou .txt) contendo as seguintes informações para se candidatar através de um PULL REQUEST no repositório com a label "Junte-se à Equipe":
 
-   - **Usuário do Discord**: [SeuNome#1234]
-   - **Tecnologia na qual trabalha**: [Tecnologia/linguagem]
-   - **Objetivos dentro do projeto**: [Descreva como pretende contribuir e seus objetivos]
+   - **Usuário do Discord**: [SeuNome#1234] ou [SeuNome (id: 1234)]
+   - **Tecnologias com as quais você trabalha**: [Tecnologia/linguagem]
+   - **Objetivos dentro do projeto**: [Descreva como pretende contribuir e quais são seus objetivos]
+   - **Área de Atuação**:
+     [Escolha a área na qual deseja contribuir: "desenvolvimento de software" ou outra área essencial, como gestão de software, controle de versão e colaboração, testes, organização, CI/CD, fluxo e GitHub Actions]
 
-   - **Área de Atuação**: 
-     [Escolha a área na qual deseja contribuir: "software" ou outra área essencial, por ex: gestão de software, controle de versão e colaboração, testes, organização, CI/CD, fluxo e github actions]
+2. **Tipo de Contribuição:**
+   Lembre-se de que valorizamos contribuições de todas as habilidades e níveis de experiência. Você pode ajudar com ideias, organização, gestão de software, controle de versão, testes, organização, CI/CD, fluxo e GitHub Actions, entre outras áreas.
 
-3. **Tipo de Contribuição:**
-   Lembre-se de que valorizamos contribuições de todas as habilidades e níveis de experiência. 
-   Você pode ajudar com ideias, organização, gestão de software, controle de versão, testes, organização, CI/CD, fluxo e GitHub Actions, entre outras áreas.
-
-4. **Agradecemos o seu interesse em fazer parte da nossa equipe de desenvolvimento!**
+3. **Agradecemos muito o seu interesse em fazer parte da nossa equipe de desenvolvimento!**
 
 ---
 
-Lembre-se de que valorizamos todos os tipos de ajuda e estamos ansiosos para tê-lo em nossa equipe!
+*Lembre-se de que valorizamos todos os tipos de ajuda e estamos ansiosos para tê-lo em nossa equipe!*
