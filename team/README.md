@@ -3,7 +3,7 @@
 Se você está interessado em se juntar ao nosso time de desenvolvimento, siga estas etapas simples:
 
 1. **Submissão de Informações:**
-   Envie um arquivo de texto (formato .md ou .txt) contendo as seguintes informações para se candidatar através de um PULL REQUEST no repositório com a label "Junte-se à Equipe":
+   Envie um arquivo de texto (formato .md ou .txt) contendo as seguintes informações para se candidatar através de um PULL REQUEST no repositório com a label `join the team`:
 
    - **Usuário do Discord**: [SeuNome#1234] ou [SeuNome (id: 1234)]
    - **Tecnologias com as quais você trabalha**: [Tecnologia/linguagem]
